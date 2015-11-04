@@ -6,6 +6,7 @@ This is run through the console window.
 There are opportunities to reuse code so that'll be in the next update if there is one.
 
 "0" "1" "2" : are used for game modes
+
   *If you use anything else, it'll punish you for not following instructions*
 
 "a" "b" "c"... "z".."1".. "{": to enter a character
@@ -13,7 +14,7 @@ There are opportunities to reuse code so that'll be in the next update if there 
 "abc" "word" "42" : to enter multiple characters at once
 
 ---
-Game Modes:
+###Game Modes:
 ---
 
 Easy:
